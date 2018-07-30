@@ -1,0 +1,6 @@
+{
+    "name":"laoxue/alipay"
+    ,"require": {
+        "laoxue/alipay": "1.0.*" 
+    }
+}
